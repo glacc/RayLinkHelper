@@ -1,4 +1,6 @@
-﻿using System.Runtime.Versioning;
+﻿// SPDX-License-Identifier: GPL-3.0-only
+
+using System.Runtime.Versioning;
 
 namespace RayLinkHelper
 {
